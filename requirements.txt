@@ -1,0 +1,4 @@
+# UAP P2P Network - CSE 433 Assignment
+# No third-party packages are required.
+# Only the Python 3.9+ standard library is used:
+# socket, threading, json, struct, uuid, os, queue, tkinter
